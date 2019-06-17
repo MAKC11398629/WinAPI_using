@@ -1,0 +1,5 @@
+﻿  Win32Project1.cpp
+c:\1\yandex\win32project1\win32project1\win32project1.cpp(109): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\1\yandex\win32project1\win32project1\win32project1.cpp(293): warning C4101: i: неиспользованная локальная переменная
+  Win32Project1.vcxproj -> C:\1\yandex\Win32Project1\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> C:\1\yandex\Win32Project1\Debug\Win32Project1.pdb (Full PDB)
